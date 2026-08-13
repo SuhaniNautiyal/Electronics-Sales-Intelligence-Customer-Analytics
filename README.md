@@ -1,4 +1,4 @@
-# 📊 Electronics Sales Intelligence & Customer Analytics
+# 📊 Electrolytix
 
 An end-to-end data analytics project that transforms electronics sales data into actionable insights on **revenue, product performance, customer purchasing behaviour, regional performance, and sales trends**.
 
